@@ -4,7 +4,7 @@ const Home = () => (
     {/* NAVBAR START */}
     <div className="navbar-wrapper">
       <nav className="navbar navbar-expand-lg navbar-dark fj-mw9">
-        <a className="navbar-brand mr-3 font-weight-bold" href="#">FilipJerga</a>
+        <a className="navbar-brand mr-3 font-weight-bold" href="#">Douglas Jacobson</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
@@ -40,8 +40,8 @@ const Home = () => (
     <section className="fj-hero">
       <div className="fj-hero-wrapper row">
         <div className="hero-left col-md-6">
-          <h1 className="white hero-title">Hey I'm Filip. Experienced full stack developer</h1>
-          <h2 className="white hero-subtitle">Check my portfolio and video tutorials</h2>
+          <h1 className="white hero-title">Douglas Jacobson. Experienced full stack developer</h1>
+          <h2 className="white hero-subtitle">Check my portfolio.</h2>
           <div className="button-container">
             <a href="" className="btn btn-main bg-blue ttu">See my work</a>
           </div>

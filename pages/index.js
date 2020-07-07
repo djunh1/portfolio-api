@@ -1,5 +1,5 @@
-import Navbar from '../components/shared/Navbar';
-import Hero from '../components/shared/Hero';
+import Navbar from '@/components/shared/Navbar';
+import Hero from '@/components/shared/Hero';
 
 const Home = () => (
   <div className="portfolio-app">
@@ -102,7 +102,7 @@ const Home = () => (
       <a href="" className="btn btn-main bg-blue ttu">See More Posts</a>
       {/* HOME PAGE ENDS */}
 
-    
+
     </div>
 
     {/* REPLIER STARTS */}

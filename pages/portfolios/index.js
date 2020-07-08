@@ -1,13 +1,9 @@
-import Navbar from '@/components/shared/Navbar';
 
-const Portfolios = () => {
+
+const Portfolios = (props) => {
+  
   return(
     <>
-     <Navbar/>
-
-
-
-    <div class="container">
       <section className="section-title">
         <div className="px-2">
           <div className="pt-5 pb-4">
@@ -55,12 +51,13 @@ const Portfolios = () => {
           </div>
         </div>
       </section>
-    </div>
     </>
   )
 
-}
 
+
+
+}
 
 
 export default Portfolios;

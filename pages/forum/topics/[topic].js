@@ -1,13 +1,7 @@
-import Navbar from '@/components/shared/Navbar';
 
 const Posts = () => {
   return(
     <>
-     <Navbar/>
-
-
-
-    <div class="container">
     <section className="section-title">
         <div className="px-2">
           <div className="pt-5 pb-4">
@@ -136,7 +130,6 @@ const Posts = () => {
           </div>
         </div>
       </section>
-    </div>
     </>
   )
 

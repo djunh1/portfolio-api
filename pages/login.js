@@ -1,13 +1,7 @@
-import Navbar from '@/components/shared/Navbar';
 
 const Login = () => {
   return(
     <>
-     <Navbar/>
-
-
-
-    <div class="container">
     <section className="section-title">
         <div className="px-2">
           <div className="pt-5 pb-4">
@@ -41,7 +35,6 @@ const Login = () => {
           </div>
         </div>
       </div>
-    </div>
     </>
   )
 
